@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.edu.unal.tictactoe1.TicTacToeActivity">
+
+    <edu.harding.tictactoe1.BoardView
+        android:id="@+id/board"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="40dp"
+        android:layout_toRightOf="@id/board"
+        android:layout_marginLeft="20dp">
+        <TextView
+            android:id="@+id/tv_information"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="information"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:paddingBottom="20dp"/>
+
+        <TextView
+            android:id="@+id/tv_human_wins"
+            android:text="Human: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/tv_ties"
+            android:text="Ties: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/tv_computer_wins"
+            android:text="Android: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+
+</RelativeLayout>
