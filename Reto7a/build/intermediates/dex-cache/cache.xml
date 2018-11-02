@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_dcad8878e99036d2e02d7d42f97b95db76059475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/0dfc8a2af26c26af8f31884e36666c54a00e650d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_71a21d8c0bc18713969777ff88186bda556fe806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/5574463afb385a9f106b7bd54aff133c95d60637/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_901b3fa38b2d3e28c8c0b654d7b91208fc466804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/715734bbbbdef2a02050bcaa9c185086f9fc641e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_3071c1dcfff3586c1d82088f02f89857dc55f875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/4555b25380f1e651cbaf949a33f88d718efd088e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_9e3918b6907fcb467929266b2c328e44373240e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/54703bebceacf1ca58a819c847113c429b309cc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_721aa9de9fb9597401c95a6178d50ffee5843cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/ec79d26771e9074e470e3e7b5596001d280e8589/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_e5c16d1fd7d08a2363e9d9c44833bb4837c390cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/7dde25e1e9e0512d3645ec335189be65d2f87066/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_35501bb342093b06f4115caaac6efd22494df0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/8495dd20a41039d4129cf3885525964a79c21caa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_d66b22007ad61ef446729980a517c7fbc1eb1a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/d386206d2a939862112da62fe304f57352e030e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_11169101097b8bcae60b44e706e28f03de25549e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/.android/build-cache/06600125bf7a58ba9f7c30e9298f0b760da8f7d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/classes_4d9711cfa0386e71167ed37246dc9ee021094362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/juancho/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/juancho/Downloads/TicTacToe 2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f6d49119d41cb7f9efe648fcb226925abb84523b.jar" />
+    </item>
+
+</items>
