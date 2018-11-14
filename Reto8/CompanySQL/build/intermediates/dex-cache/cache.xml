@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vr/Desarrollo Apps/EmpresasSQLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vr/Desarrollo Apps/EmpresasSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e5c0515e9d8e49cf10d17b47362233ac84c1124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vr/Desarrollo Apps/EmpresasSQLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a1be1dc5dae313371f9e724c6e5e9d3457f1e12">
+        <dex dex="/home/vr/Desarrollo Apps/EmpresasSQLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_705443fb69fd753c7284fa63ed33cd0c084941c1/classes.dex" />
+    </item>
+
+</items>
